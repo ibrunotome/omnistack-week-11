@@ -1,6 +1,6 @@
 # omnistack-week-11
 
-<p style="text-align: center">
+<p align="center">
   <img src="frontend/src/assets/logo.svg">
 </p>
 
@@ -26,8 +26,4 @@ The stack used is 100% javascript:
 
 ## Mobile application
 
-<img width="33%" alt="Screenshot 2020-03-29 10 35 44" src="https://user-images.githubusercontent.com/4256471/77850596-01650c80-71aa-11ea-9f1a-a840a906266d.PNG">
-
-<img width="33%" alt="Screenshot 2020-03-29 10 35 44" src="https://user-images.githubusercontent.com/4256471/77850595-0033df80-71aa-11ea-9598-1f96e4778091.PNG">
-
-<img width="33%" alt="Screenshot 2020-03-29 10 35 44" src="https://user-images.githubusercontent.com/4256471/77850597-01650c80-71aa-11ea-90b6-60611a817386.PNG">
+<img width="33%" alt="Screenshot 2020-03-29 10 35 44" src="https://user-images.githubusercontent.com/4256471/77850596-01650c80-71aa-11ea-9f1a-a840a906266d.PNG"> <img width="33%" alt="Screenshot 2020-03-29 10 35 44" src="https://user-images.githubusercontent.com/4256471/77850595-0033df80-71aa-11ea-9598-1f96e4778091.PNG"> <img width="33%" alt="Screenshot 2020-03-29 10 35 44" src="https://user-images.githubusercontent.com/4256471/77850597-01650c80-71aa-11ea-90b6-60611a817386.PNG">
